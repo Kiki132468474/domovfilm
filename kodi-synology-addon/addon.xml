@@ -1,8 +1,0 @@
-<addon id="plugin.video.synology" version="1.0.0" name="Synology Video Addon" provider-name="YourName">
-    <extension point="xbmc.python.script" library="default.py" />
-    <extension point="xbmc.addon.metadata">
-        <summary>Video addon for Synology NAS</summary>
-        <description>Access movies from Synology NAS using QuickConnect.</description>
-        <platform>all</platform>
-    </extension>
-</addon>
